@@ -1,0 +1,20 @@
+.button{
+  border-radius: 50px;
+  background-color: cyan;
+  padding: 10px;
+  text-align: center;
+}
+
+.fila{
+  background-color: red;
+  margin: 5px;
+  color: white;
+  clear: both;
+}
+
+.celda{
+  background: grey;
+  padding: 10px;
+  border: 1px solid pink;
+  float: left;
+}
